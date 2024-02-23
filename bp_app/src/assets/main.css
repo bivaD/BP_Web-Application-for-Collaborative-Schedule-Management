@@ -1,0 +1,22 @@
+/**
+ * @file main.css
+ * @description This is global CSS file.
+ * @author David Novák
+ * @created 9. March 2023
+ * 
+ * This code is part of a bachelor's thesis at the FIT BUT.
+ */
+
+ html {
+    height: 100%;
+}
+body {
+    margin:0;
+}
+
+#app{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0;
+}
